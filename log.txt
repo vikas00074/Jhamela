@@ -1,0 +1,75 @@
+==================================
+Active sessions: 6
+====================================================================
+Active sessions: 6
+====================================================================
+Active sessions: 6
+====================================================================
+Active sessions: 6
+SUCCESS: TLS interface and port configured
+SUCCESS: Key and certificate pair match
+====================================================================
+Active sessions: 6
+Enabled                 : true
+TLS listening interface : a
+TLS listening port      : 443
+Key file                : CMS.key
+Certificate file        : Server.cer
+HTTP redirect           : Disabled
+STATUS                  : webadmin starting up
+====================================================================
+Active sessions: 6
+====================================================================
+Active sessions: 6
+====================================================================
+Active sessions: 6
+====================================================================
+Active sessions: 6
+SUCCESS: listen interface configured
+SUCCESS: Key and certificate pair match
+SUCCESS: certificate verified against CA bundle
+SUCCESS: c2w trust bundle parsed.
+====================================================================
+Active sessions: 6
+Listening interfaces  : a
+Preferred interface   : none
+Key file              : CMS.key
+Certificate file      : Server.cer
+Address               : none
+CA Bundle file        : ca-bundle22.cer
+C2W trusted certs                   : ca-bundle22.cer
+Callbridge cluster trusted certs    : none
+Callbridge trust branding certs     : none
+====================================================================
+Active sessions: 6
+====================================================================
+Active sessions: 6
+====================================================================
+Active sessions: 6
+====================================================================
+Active sessions: 6
+====================================================================
+Active sessions: 6
+====================================================================
+Active sessions: 6
+====================================================================
+Active sessions: 6
+FAILURE: HTTPS Key and certificate problem: invalid certificate
+FAILURE: Webbridge3 configuration not complete
+====================================================================
+Active sessions: 6
+Enabled                               : false
+HTTPS listening ports and interfaces  : a:344
+HTTPS Key file                        : CMS.key
+HTTPS Full chain certificate file     : Chain.cer
+HTTPS Frame-Ancestors                 : none
+HTTP redirect                         : Disabled
+C2W listening ports and interfaces    : a:9999
+C2W Key file                          : CMS.key
+C2W Full chain certificate file       : Chain.cer
+C2W Trust bundle                      : ca-bundle22.cer
+Meetingapps address                   : none
+Meetingapps port                      : none
+Audio priority flag                   : Disabled
+Beta options                          : none
+==================================
