@@ -1,7 +1,7 @@
 import os
 
-from SFTP import SftpClient
-from connection import sshConnect
+from Utilities.SFTP import SftpClient
+from Utilities.connection import sshConnect
 
 
 class Services(sshConnect, SftpClient):

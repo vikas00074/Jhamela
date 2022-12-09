@@ -1,8 +1,8 @@
 from services import Services
-from connection import sshConnect
+from Utilities.connection import sshConnect
 # from cluster import Cluster
 
-from SFTP import SftpClient
+from Utilities.SFTP import SftpClient
 # from cerificate import Certificate
 
 
